@@ -6,7 +6,7 @@
 package javaweek2;
 
 /**
- * 123123123
+ * 1234567890
  * @author burge
  */
 public class PartTimeStudent extends Student{
